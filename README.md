@@ -17,7 +17,7 @@
 
 # 📖 [Hello-microverse] <a name="Hello-microverse"></a>
 
-**[Hello-microverse]** this was mini-projects that upkill to create a feature branch and test linters in order to have professional-looking code.
+**[Hello-microverse]** this was mini-projects that upskill to create a feature branch and test linters in order to have professional-looking code.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,76 +57,21 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:<br>
-Advantages of Linters:<br>
-
-1: improves readability-it will be easy to read and make adjustment if required easily.<br>
-2:removes silly errors before execution and code review.<br>
-3:Makes code look like written by a single person.<br>
-4:Spreads awareness and ownership over code quality<br>
-5:Having more secure and performant code.<br>
+git@github.com:brighton0102/Hello.git
 
 ## Install Linters
+you can use 
 
-You can find linters for most of the programming languages, e.g. Rubocop for Ruby or ESLint for JavaScript.
+Github
+VS code
+so that you can access the code
 
-Also, there are many ways you can integrate a linter in your workflow:
+To run the project, execute the following commands
 
--text editor plugin<br>
--GitHub Actions<br>
--GitHub apps<br>
+Linters
+git commands
 
-## Set up Linters
-
-**Note:** The npm package manager is going to create a node_modules directory to install all of your dependencies. You shouldn't commit that directory. To avoid that, you can create a .gitignore file and add node_modules to it:
-
-# .gitignore
-
-node_modules/
-
-## Web Hint
-
-This is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
-
-**NOTE:** If you are using Windows, make sure you initialize npm to create `package.json` file.
-
-```
-npm init -y
-```
-
-1. Run
-   ```
-   npm install --save-dev hint@7.x
-   ```
-   _how to use npm: (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)._
-2. Copy [.hintrc](.hintrc) to the root directory of your project.
-3. **Do not make any changes in config files - they represent style guidelines that you share with your team - which is a group of all Microverse students.**
-   - If you think that change is necessary - open a [Pull Request in this repository](../README.md#contributing) and let your code reviewer know about it.
-4. Run
-   ```
-   npx hint .
-   ```
-5. Fix validation errors.
-
-### [Stylelint](https://stylelint.io/)
-
-A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-
-1. Run
-
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-not sure how to use npm? Read this.
-
-2. Copy .stylelintrc.json to the root directory of your project.
-
-3. **Do not make any changes in config files - they represent style guidelines that you share with your team - which is a group of all Microverse students.**
-
-If you think that change is necessary - open a Pull Request in this repository and let your code reviewer know about it. 4. Run npx stylelint "\*_/_.{css,scss}" on the root of your directory of your project.
-
-5. Fix linter errors.
-
-6. **IMPORTANT NOTE:** feel free to research auto-correct options for Stylelint if you get a flood of errors but keep in mind that correcting style errors manually will help you to make a habit of writing a clean code!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Run test
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -138,6 +83,8 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+Contributions and feature request are welcome.
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -147,7 +94,7 @@ If you think that change is necessary - open a Pull Request in this repository a
 - [ ] **[new_feature_1]**
       This project will not have any additional features.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
@@ -184,6 +131,6 @@ I am thankful to be part of the less than one percent of the student's who get e
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](https://github.com/brighton0102/Hello/blob/feature-branch/LICENSE.txt) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
