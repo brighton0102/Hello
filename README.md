@@ -22,19 +22,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
- <details>
-  <summary>HTML</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
+HTML AND CSS
 
 <!-- Features -->
 
